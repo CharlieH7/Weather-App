@@ -1,3 +1,3 @@
 <h1>Weather-App</h1>
 
-A weather app with javascript. I used the weather api and we get data from api and display on the frontend.
+A weather app with javascript. I use the openWeather api and we get data from api to display on the frontend.
