@@ -1,3 +1,3 @@
 <h1>Weather-App</h1>
 
-A weather app with javascript. I use the openWeather api and we get data from api to display on the frontend.
+A weather web application with javascript. I use the openWeather api and get data from api to display on the frontend. Type in your location to find the weather in your area (degree, humidity, wind level...)
